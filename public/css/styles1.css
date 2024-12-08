@@ -1,0 +1,14 @@
+.body{
+    display: grid;
+    text-align: center;
+    justify-content: center;
+}
+
+.navbar{
+    color: white;
+    margin-bottom: 2em;
+}
+
+a{
+    color: #DC3545;
+}
